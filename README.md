@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SrdTi
 - 👀 I’m interested in Rasperry Pi
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Python (CS50P)
 - 💞️ I’m looking for a mentor who speaks german 
 - 📫 How to reach me: send me a Message
 
